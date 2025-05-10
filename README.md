@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="./img/moledeeprat.png" alt="Mole Logo" width="200px">
+  <img src="./img/moledeeprat.png" alt="Mole Logo" width="100%">
 </p>
 
 **Mole** is a bilingual, educational chatbot powered by **RAG (Retrieval-Augmented Generation)**.  
