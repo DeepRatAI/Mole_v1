@@ -1,0 +1,14 @@
+# Base Libraries
+gradio
+sentence-transformers
+faiss-cpu
+transformers
+torch
+peft 
+accelerate 
+# Document Loaders
+PyMuPDF
+python-docx
+
+# Utilidades
+scikit-learn
